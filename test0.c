@@ -6,7 +6,7 @@ int TEST1(void)
 	int x=0;
 	int y=0;
 	char string[]="test";
-	
-	return(x*y);
+	 i = x+y;
+	return(x*i);
 
 }
